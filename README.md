@@ -64,6 +64,7 @@
 | [Valkyrie](https://valkyrieofficial.vercel.app/docs/ValkyrieDocs.html) | Official
 | [Vash X](https://www.vashx.org/docs/api) | Official
 | [Wave](https://duckys-playground.gitbook.io/wave/getting-started) | Official
+| [Zenith](https://docs.zenith.win/) | Official
 
 ## No Longer Working & Archive Missing
 ### Let us know if you have, find or get a working archive of any of these sites
