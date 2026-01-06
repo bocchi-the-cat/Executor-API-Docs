@@ -23,8 +23,8 @@
 | [Celery RakNet Library](https://gist.github.com/jLn0n/16c2ce3c0c1fc1b6b76949715077da7a/cedf1629355ab858d6d47846b10e02bb37ea704f) | Unofficial, Outdated | Includes Rare RakNet Docs!<br />Author: jalon ([Github](https://github.com/jLn0n), [Discord](https://discordapp.com/users/474555624219344906))
 | [Comet](https://paficent.github.io/CometDocs/) | Unofficial, Outdated | Other Undocumented Functions: https://github.com/Paficent/CometDocs/blob/gh-pages/OtherFunctions.md
 | [Cyber](https://luau.github.io/Executor-API-Docs/Cyber) | Unofficial, Archived | Author: greenmangaming.com ([Github](https://github.com/greenmancode), [Discord](https://discordapp.com/users/577282206079385610)), [Source](https://archive.softwareheritage.org/browse/origin/directory/?origin_url=https://github.com/greenmancode/docs)
-| [DX9WARE](https://cultofintellect.com/docs/DX9WARE/DX9WARE%20LUA/introduction.html) | Official
-| [Bunni.lol](https://bunni.lol/docs) | Official
+| [DX9WARE](https://docs.cultofintellect.com) | Official
+| [Bunni.lol](https://bunni.lol/docs) | Official, BROKEN
 | [Electron](https://web.archive.org/ryos.lol/api/EDocs.html) | Official, Archived
 | [Elysian, ProtoSmasher, Synapse X](https://luau.github.io/wally-rbxdocs) | Unofficial, Archived | Authors: Wallythebird ([Github](https://github.com/wally2471), [Discord](https://discordapp.com/users/727303510185607279)) & Nexure ([Github](https://github.com/Nexure), [Discord](https://discordapp.com/users/531933495598252042)) & Burkino ([Github](https://github.com/Burkino), [Discord](https://discordapp.com/users/342202302142087168)),<br />Thread: https://v3rmillion.net/showthread.php?tid=904313
 | [Elysian](https://luau.github.io/Executor-API-Docs/Elysian) | Official, Archived
@@ -36,7 +36,7 @@
 | [KRNL](https://web.archive.org/docs.krnl.ca/) | Official | Author: bruvzz ([Github](https://github.com/bruvzz)) Source: https://github.com/bruvzz/krnldoc
 | [KRNL](https://app.archbee.com/public/2Jp4SDaAD4P1COFfx1p_t) | Unofficial | Author: zzerexx ([Github](https://github.com/zzerexx), [Discord](https://discordapp.com/users/292756593412669440))
 | [KRNL Predocs](https://web.archive.org/web/20220703164205/krnl.place/predocs.html) | Official | Author: Someone Insane#9501
-| [Nihon](https://docs.nihon.lol/) | Official
+| [Nihon](https://web.archive.org/web/20250215061143/https://docs.nihon.lol/) | Official
 | [Oxygen U](https://oxygenu.xyz/docs/book) | Official : Author: bruvzz ([Github](https://github.com/bruvzz)) Source: https://github.com/bruvzz/oxydoc
 | [[OLD] Oxygen U](https://oxygenu.xyz/docs.html) | Official, Outdated
 | [[OLD] Oxygen U](https://github.com/iDevastate/Oxygen-v2/blob/main/docs.txt) | Official, Outdated
@@ -45,7 +45,7 @@
 | [[OLD] ProtoSmasher](https://luau.github.io/Executor-API-Docs/ProtoSmasher) | Official, Outdated
 | [Raindrop](https://luau.github.io/Executor-API-Docs/Raindrop) | Official, Archived |  Author: 3dsboy08 ([Github](https://github.com/3dsboy08), [Discord](https://discordapp.com/users/529155884643909643)), [Source](https://archive.softwareheritage.org/browse/origin/directory/?origin_url=https://github.com/3dsboy08/3dsboy08.github.io)
 | [Rainer](https://web.archive.org/https://developer.rainerexploit.xyz/) | Official, Archived |  Author: MisterGunXD ([Github](https://github.com/MisterGunXD), [Discord](https://discordapp.com/users/318824212020330496))
-| [RO-EXEC (Krampus/loader.live)](https://web.archive.org/docs.krampus.gg/) | Official
+| [RO-EXEC (Krampus/loader.live)](https://web.archive.org/docs.krampus.gg/) | Official, Archived
 | [[OLD] RO-EXEC (Krampus/loader.live)](https://web.archive.org/web/20240314125602/krampus-organization.gitbook.io/loader.live-ro-exec-documentation) | Official, Outdated | **Warning**: Google flags the site as harmful
 | [Script-Ware](https://web.archive.org/web/20220421142618/docs.script-ware.com/the-script-ware-api) | Official, Archived | Navigate through site using `Open Link in New Tab` only,<br />otherwise you might not get redirected.<br />If that still doesn't work -<br />try removing `web/allnumbers/` from the link then pressing `ENTER` |
 | [Sentinel](https://luau.github.io/Executor-API-Docs/Sentinel) | Unofficial, Archived | Author: greenmangaming.com ([Github](https://github.com/greenmancode), [Discord](https://discordapp.com/users/577282206079385610))
@@ -59,12 +59,12 @@
 | [Synapse X Debug Library](https://gist.github.com/TehBlaxxor/c8022570fea9e48ab7a6a6ad23c7c671) | Unofficial, Outdated | Author: greenmangaming.com ([Github](https://github.com/greenmancode), [Discord](https://discordapp.com/users/577282206079385610))
 | [Synapse X Hidden](https://luau.github.io/Executor-API-Docs/Synapse%20X%20Hidden) | Unofficial, Outdated | Thread: https://v3rmillion.net/showthread.php?tid=879181
 | [Synapse X V3](https://web.archive.org/synllc.github.io/synapse-x-documentation) | Official, Archived (Latest)
-| [Synapse Z](https://synz.lol/docs) | Official
+| [Synapse Z](https://web.archive.org/web/20240803222709/https://synz.lol/docs) | Official
 | [Unit](https://web.archive.org/github.com/unit-fun/Unit-Documentation) | Official, Archived
 | [Valkyrie](https://valkyrieofficial.vercel.app/docs/ValkyrieDocs.html) | Official
 | [Vash X](https://www.vashx.org/docs/api) | Official
 | [Wave](https://duckys-playground.gitbook.io/wave/getting-started) | Official
-| [Zenith](https://docs.zenith.win/) | Official
+| [Zenith](https://web.archive.org/web/20250427125645/https://docs.zenith.win/) | Official
 
 ## No Longer Working & Archive Missing
 ### Let us know if you have, find or get a working archive of any of these sites
