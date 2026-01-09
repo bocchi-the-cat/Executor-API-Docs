@@ -59,12 +59,12 @@
 | [Synapse X Debug Library](https://gist.github.com/TehBlaxxor/c8022570fea9e48ab7a6a6ad23c7c671) | Unofficial, Outdated | Author: greenmangaming.com ([Github](https://github.com/greenmancode), [Discord](https://discordapp.com/users/577282206079385610))
 | [Synapse X Hidden](https://luau.github.io/Executor-API-Docs/Synapse%20X%20Hidden) | Unofficial, Outdated | Thread: https://v3rmillion.net/showthread.php?tid=879181
 | [Synapse X V3](https://web.archive.org/synllc.github.io/synapse-x-documentation) | Official, Archived (Latest)
-| [Synapse Z](https://web.archive.org/web/20240803222709/https://synz.lol/docs) | Official
+| [Synapse Z](https://web.archive.org/web/20240803222709/https://synz.lol/docs) | Official, Archived
 | [Unit](https://web.archive.org/github.com/unit-fun/Unit-Documentation) | Official, Archived
 | [Valkyrie](https://valkyrieofficial.vercel.app/docs/ValkyrieDocs.html) | Official
 | [Vash X](https://www.vashx.org/docs/api) | Official
 | [Wave](https://duckys-playground.gitbook.io/wave/getting-started) | Official
-| [Zenith](https://web.archive.org/web/20250427125645/https://docs.zenith.win/) | Official
+| [Zenith](https://web.archive.org/web/20250427125645/https://docs.zenith.win/) | Official, Archived
 
 ## No Longer Working & Archive Missing
 ### Let us know if you have, find or get a working archive of any of these sites
@@ -85,9 +85,8 @@ Also, you can use this site https://archive.softwareheritage.org/browse which ar
 | :- | :- | -
 | [Elysian](https://irishost.xyz/FileUploader/Iris/ElyDocs.html) | Unofficial | Author: Iris ([Github](https://github.com/RiisDev), [Discord](https://discordapp.com/users/465727038305599500))
 | [Hexus](https://forum.hexus.xyz/t/hexus-functions/6885/2) | Official | Thread: https://v3rmillion.net/showthread.php?tid=638069<br />OG Executor, which makes the documentation rare!
-| [KRNL](https://docs.krnl.rocks/) | Official, Outdated
-| [KRNL](https://krnl.place/docs) | Official, Outdated
-| [KRNL](https://krnl.rocks/docs) | Official, Outdated
+| [KRNL](https://web.archive.org/web/20210123163549/https://docs.krnl.rocks/) | Official, Outdated
+| [KRNL](https://web.archive.org/web/20231220184746/https://docs.krnl.ca/) | Official, Outdated
 | [Magnius](https://magnius.xyz/) | Official | Thread: https://forum.wearedevs.net/t/20523
 | [Noobhaxx](https://gist.github.com/greenmancode/b069b35df2135a3430c80795a7cd672a) | Unofficial | Author: greenmangaming.com ([Github](https://github.com/greenmancode), [Discord](https://discordapp.com/users/577282206079385610))
 | [Script-Ware](https://dev.script-ware.com) | Official
